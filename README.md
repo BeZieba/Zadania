@@ -12,7 +12,7 @@ W folderze *Selenium* znajdują się zadania, które wymagają zautomatyzowania.
 Przed przystąpieniem do wykonywania zadań należy mieć zainstalowanego Pythona 3.5 lub nowszego. Następnym krokiem jest pobranie Selenium. Można to zrobic przy użyciu komendy:
 `pip install selenium`. </br>
  Programy zostały tak przygotowane, żeby dało się je wykonać bez konieczności pobierania driver'ów poszczególnych przeglądarek. Wykorzystany zostanie  *undetected_chromedriver*. Pobiera się go komendą `pip install undetected-chromedriver` </br>
- 
+ Bardzo przydatne może okazać sie również rozszerzenie do przeglądarki pozwalające uzyskać Xpath dowolnego elementu. </br>
    Nie ma potrzeby dodawania żadnych nowych bibliotek do istniejących plików.
 # Pomoce naukowe
 W razie trudności można skorzystać z poniższych źródeł:</br>
