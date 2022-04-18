@@ -7,7 +7,7 @@
 Celem zadań umieszczonych w tym repozytorium jest pokazanie potencjalnych zastosowań Selenium do automatyzowania czynnosci wykonywanych przez człowieka.
 # Zadania
 
-W folderze *Selenium* znajdują się zadania, które wymagają zautomatyzowania. Każdy plik zawiera krótkie wprowadzenie i instrukcję mówiącą, co należy zrobić. We wszystkich zadaniach będzie wykorzystywana wyszukiwarka Google Chrome. 
+Do repozytorium będą dodawane zadania, które wymagają zautomatyzowania. Każdy plik zawiera krótkie wprowadzenie i instrukcję mówiącą, co należy zrobić. We wszystkich zadaniach będzie wykorzystywana wyszukiwarka Google Chrome. 
 # Wymagania 
 Przed przystąpieniem do wykonywania zadań należy mieć zainstalowanego Pythona 3.5 lub nowszego. Następnym krokiem jest pobranie Selenium. Można to zrobic przy użyciu komendy:
 `pip install selenium`. </br>
