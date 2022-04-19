@@ -14,8 +14,8 @@ Przed przystąpieniem do wykonywania zadań należy mieć zainstalowanego Python
  Programy zostały tak przygotowane, żeby dało się je wykonać bez konieczności pobierania driver'ów poszczególnych przeglądarek. Wykorzystany zostanie  *undetected_chromedriver*. Pobiera się go komendą `pip install undetected-chromedriver` </br>
  Bardzo przydatne może okazać sie również rozszerzenie do przeglądarki pozwalające uzyskać Xpath dowolnego elementu. </br>
    Nie ma potrzeby dodawania żadnych nowych bibliotek do istniejących plików.
-# Pomoce naukowe
-W razie trudności można skorzystać z poniższych źródeł:</br>
+# Bibliografia
+Przygotowując materiały na projekt korzystaliśmy z poniższych źródeł:</br>
 - [Dokumentacja Selenium Python](https://selenium-python.readthedocs.io/index.html)
 - [Przykładowe programy z wyjaśnieniem zasady ich działania](https://www.guru99.com/selenium-python.html)
 - [Znajdowanie elementów stron używając Xpath](https://www.guru99.com/xpath-selenium.html)
