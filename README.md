@@ -15,7 +15,7 @@ Przed przystąpieniem do wykonywania zadań należy mieć zainstalowanego Python
  Bardzo przydatne może okazać sie również rozszerzenie do przeglądarki pozwalające uzyskać Xpath dowolnego elementu. </br>
    Nie ma potrzeby dodawania żadnych nowych bibliotek do istniejących plików.
 # Bibliografia
-Przy rozwiązywaniu zadań przydatne moga okazać się poniższe linki:</br>
+Przy rozwiązywaniu zadań przydatne mogą okazać się poniższe linki:</br>
 - [Dokumentacja Selenium Python](https://selenium-python.readthedocs.io/index.html)
 - [Przykładowe programy z wyjaśnieniem zasady ich działania](https://www.guru99.com/selenium-python.html)
 - [Znajdowanie elementów stron używając Xpath](https://www.guru99.com/xpath-selenium.html)
